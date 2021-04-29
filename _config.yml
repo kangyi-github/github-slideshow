@@ -114,3 +114,6 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+-名称：使用tmate进行调试
+  用途：mxschmitt/action-tmate@v3.5
+
